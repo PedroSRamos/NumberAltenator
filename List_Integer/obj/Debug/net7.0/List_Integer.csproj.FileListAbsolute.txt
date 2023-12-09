@@ -1,0 +1,14 @@
+D:\TreinamentoC#\List_Integer\List_Integer\bin\Debug\net7.0\List_Integer.exe
+D:\TreinamentoC#\List_Integer\List_Integer\bin\Debug\net7.0\List_Integer.deps.json
+D:\TreinamentoC#\List_Integer\List_Integer\bin\Debug\net7.0\List_Integer.runtimeconfig.json
+D:\TreinamentoC#\List_Integer\List_Integer\bin\Debug\net7.0\List_Integer.dll
+D:\TreinamentoC#\List_Integer\List_Integer\bin\Debug\net7.0\List_Integer.pdb
+D:\TreinamentoC#\List_Integer\List_Integer\obj\Debug\net7.0\List_Integer.GeneratedMSBuildEditorConfig.editorconfig
+D:\TreinamentoC#\List_Integer\List_Integer\obj\Debug\net7.0\List_Integer.AssemblyInfoInputs.cache
+D:\TreinamentoC#\List_Integer\List_Integer\obj\Debug\net7.0\List_Integer.AssemblyInfo.cs
+D:\TreinamentoC#\List_Integer\List_Integer\obj\Debug\net7.0\List_Integer.csproj.CoreCompileInputs.cache
+D:\TreinamentoC#\List_Integer\List_Integer\obj\Debug\net7.0\List_Integer.dll
+D:\TreinamentoC#\List_Integer\List_Integer\obj\Debug\net7.0\refint\List_Integer.dll
+D:\TreinamentoC#\List_Integer\List_Integer\obj\Debug\net7.0\List_Integer.pdb
+D:\TreinamentoC#\List_Integer\List_Integer\obj\Debug\net7.0\List_Integer.genruntimeconfig.cache
+D:\TreinamentoC#\List_Integer\List_Integer\obj\Debug\net7.0\ref\List_Integer.dll
